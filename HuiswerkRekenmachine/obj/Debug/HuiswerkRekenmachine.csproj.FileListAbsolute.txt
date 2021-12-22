@@ -1,0 +1,10 @@
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\bin\Debug\HuiswerkRekenmachine.exe.config
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\bin\Debug\HuiswerkRekenmachine.exe
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\bin\Debug\HuiswerkRekenmachine.pdb
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.csproj.AssemblyReference.cache
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.Form1.resources
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.Properties.Resources.resources
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.csproj.GenerateResource.cache
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.csproj.CoreCompileInputs.cache
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.exe
+C:\dev\VS\HuiswerkRekenmachine\HuiswerkRekenmachine\obj\Debug\HuiswerkRekenmachine.pdb
