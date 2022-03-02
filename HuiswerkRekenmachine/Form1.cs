@@ -35,11 +35,11 @@ namespace HuiswerkRekenmachine
             Button btn = (Button)sender;
             String newOperand = btn.Text;
 
-            lblAntwoord.Text = lblAntwoord.Text + " " + txtAntwoord + " " + newOperand;
+            lblAntwoord.Text = lblAntwoord.Text + " " + txtAntwoord.Text + " " + newOperand;
 
             switch(operand)
             {
-                case "+":txtAntwoord.Text = (result + Double.Parse(txtAntwoord.Text)).ToString();break;
+                case "+": txtAntwoord.Text = (result + Double.Parse(txtAntwoord.Text)).ToString();break;
                 case "-": txtAntwoord.Text = (result - Double.Parse(txtAntwoord.Text)).ToString(); break;
                 case "*": txtAntwoord.Text = (result * Double.Parse(txtAntwoord.Text)).ToString(); break;
                 case "/": txtAntwoord.Text = (result / Double.Parse(txtAntwoord.Text)).ToString(); break;

@@ -200,6 +200,7 @@ namespace HuiswerkRekenmachine
             this.btn0.TabIndex = 14;
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = true;
+            this.btn0.Click += new System.EventHandler(this.NumEvent);
             // 
             // btnDelete
             // 
